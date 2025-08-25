@@ -1,0 +1,9 @@
+@import url('httpsfonts.googleapis.comcss2family=Interwght@400;500;600;700&display=swap');
+body {
+    font-family 'Inter', sans-serif;
+}
+ Стилизация для отмеченных задач 
+.completed-task {
+    text-decoration line-through;
+    color #9ca3af;  Тёмно-серый 
+}
